@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pankaj Kumar Malik</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **Next.js**
 
-- 💬 Ask me about **JavaScript, React, Node and Express**
+- 💬 Ask me about **Next.js, React, Express, Node, JavaScript, TypeScript, SQL, NoSQL, ORM**
 
 - 📫 How to reach me **pankajkumarmalik6@gmail.com**
 
